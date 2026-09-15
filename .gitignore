@@ -1,0 +1,18 @@
+# 生成的自我画像等私密内容 —— 请勿提交
+dig-me-*.md
+**/dig-me-*.md
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*~
+
+# 临时
+*.tmp
+*.log
