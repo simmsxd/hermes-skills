@@ -1,6 +1,6 @@
-# Hermes Skills
+# Dig me
 
-Hermes Agent 的 skill 集合。每个 skill 是一个自包含的目录，可直接克隆到 agent 的 skills 目录使用。
+Dig me 的 skill 集合。每个 skill 是一个自包含的目录，可直接克隆到 agent 的 skills 目录使用。
 
 ## 索引
 
